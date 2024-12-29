@@ -1,0 +1,81 @@
+.register_container {
+  width: 520px;
+  margin-top: 54px;
+  padding: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.instagram_title {
+  font-family: 'Billabong', cursive;
+  font-size: 48px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.register_prompt {
+  text-align: center;
+  margin-bottom: 25px;
+  font-weight: bold;
+  color: gray;
+  font-size: 17px;
+}
+
+.input_group {
+  text-align: center;
+  margin-left: 9px;
+}
+
+.input_field {
+  width: 356px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button {
+  text-align: center;
+}
+
+.register_button {
+  width: 300px;
+  padding: 10px;
+  background-color: #0095f6;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.register_button:hover {
+  background-color: #007bbf;
+}
+
+.login_prompt {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.login {
+  color: #0095f6;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.error_message {
+  color: red; /* 에러 메시지 색상 */
+  text-align: center; /* 중앙 정렬 */
+  margin-top: -30px;
+}
+.error_message_2 {
+  margin-left: 30px;
+  color: red; /* 에러 메시지 색상 */
+  text-align: left;
+  width: 380px;
+  font-size: 15px;
+  margin-top: -30px;
+}
